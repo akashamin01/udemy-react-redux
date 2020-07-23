@@ -14,6 +14,24 @@
       "title": "My third Stream",
       "description": "This is somehow best stream ever",
       "id": 3
+    },
+    {
+      "title": "The first stream made with id",
+      "description": "ID wala stream",
+      "userId": "111483365652062981847",
+      "id": 4
+    },
+    {
+      "title": "programmatic navigation",
+      "description": "Programmatic navigation is simpler than before i thought",
+      "userId": "111483365652062981847",
+      "id": 5
+    },
+    {
+      "title": "akash",
+      "description": "test ",
+      "userId": "111483365652062981847",
+      "id": 6
     }
   ]
 }
